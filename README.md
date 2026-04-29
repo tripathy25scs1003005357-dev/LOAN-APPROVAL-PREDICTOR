@@ -53,3 +53,22 @@ Loan approval is an important process in the banking and finance sector. This pr
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn streamlit
 streamlit run app.py
+
+Project Output
+
+The app predicts:
+
+Approved
+Rejected
+Future Scope
+Add more banking features
+Improve model accuracy
+Deploy online
+Add login system
+Build advanced dashboard
+
+
+Author
+Vaibhav Tripathy
+B.Tech CSE Student
+IILM University
